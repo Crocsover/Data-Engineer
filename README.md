@@ -13,18 +13,18 @@ _[Code](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSIN
 
 _[Documentation](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/README.md)_
 ____________________________________________________________________________________________________________________________
-**Project 2:** Real-time Data Streaming with Apache Kafka
+**Project 2:** Data Modeling
 
-**Description:** Implementing a real-time data streaming solution using Apache Kafka for efficient and scalable data processing.
+**Description:** This project is dedicated to crafting a customized data model for Ate Rose Grocery Store, optimizing its structure to tackle operational challenges efficiently. Additionally, it emphasizes SQL query refinement, enhancing the store's ability to seamlessly retrieve and manipulate data for improved operational management.
 
-_[Code]()_
+_[Code](https://github.com/Crocsover/Data-Engineer/tree/main/DATA%20MODELING)_
 
 
-_[Documentation]()_
+_[Documentation](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20MODELING/datamodeling.pdf)_
 _____________________________________________________________________________________________________________________________
-Project 3: Data Warehouse Design and Implementation
+Project 3: WEB SCRAPING
 
-Description: Designing and implementing a data warehouse to support complex analytical queries and reporting.
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 _[Code]()_
 
@@ -33,9 +33,12 @@ _[Documentation]()_
 ______________________________________________________________________________________________________________________________
 **Capstone Project:** End-to-End Data Engineering Solution
 
-Description: The capstone project demonstrates an end-to-end data engineering solution, incorporating various tools and techniques learned throughout the course.
-Code
-Documentation
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+_[Code]()_
+
+
+_[Documentation]()_
 
 ______________________________________________________________________________________________________________________________
 **How to Use**
