@@ -46,7 +46,6 @@ Transform the price column to express values in thousands.
 
 **Task 4:** Select Data for Specific Criteria
 Select and store in _**empty.csv:**_ Name, city, state, and country data of product 1 bought by customers from the United States and paid through Amex or Diners.
-Select and store in **_empty1.csv:_** Name, price, city, state, and country data of product 2 bought by customers from New York and paid through Mastercard.
 
 # Key Steps
 
