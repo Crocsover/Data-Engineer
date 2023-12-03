@@ -8,7 +8,7 @@ Table of Contents
 Project 1: ETL Pipeline for Sales Data
 
 Description: This project involves building an ETL pipeline to process and analyze sales data from multiple sources.
-[Code]
+[Code](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/data%20preprocessing.ipynb)
 Documentation
 
 Project 2: Real-time Data Streaming with Apache Kafka
