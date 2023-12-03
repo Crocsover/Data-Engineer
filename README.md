@@ -2,19 +2,22 @@
 Welcome to my Data Engineering Projects repository! This collection showcases various projects and my capstone work related to data engineering. These projects cover a range of topics, including data extraction, transformation, loading (ETL), data warehousing, and more.
 
 Feel free to explore the projects listed below. Each project comes with a detailed description, documentation, and relevant code.
+___________________________________________________________________________________________________________________________
+**Table of Contents**
 
-Table of Contents
+**Project 1:** ETL Pipeline for Sales Data
 
-Project 1: ETL Pipeline for Sales Data
+**Description:** This project involves building an ETL pipeline to process and analyze sales data from multiple sources.
+_[Code]_(https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/data%20preprocessing.ipynb)
 
-Description: This project involves building an ETL pipeline to process and analyze sales data from multiple sources.
-[Code](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/data%20preprocessing.ipynb)
-Documentation
-
+_Documentation_
+____________________________________________________________________________________________________________________________
 Project 2: Real-time Data Streaming with Apache Kafka
 
 Description: Implementing a real-time data streaming solution using Apache Kafka for efficient and scalable data processing.
+
 Code
+
 Documentation
 
 Project 3: Data Warehouse Design and Implementation
