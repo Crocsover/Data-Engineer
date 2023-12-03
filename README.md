@@ -8,7 +8,7 @@ ________________________________________________________________________________
 **Project 1:** ETL Pipeline for Sales Data
 
 **Description:** This project involves building an ETL pipeline to process and analyze sales data from multiple sources.
-_[Code]_(https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/data%20preprocessing.ipynb)
+_[Code](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/data%20preprocessing.ipynb)_
 
 _Documentation_
 ____________________________________________________________________________________________________________________________
