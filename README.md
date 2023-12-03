@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 _[Code](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/data%20preprocessing.ipynb)_
 
-_[Documentation](DATA PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/TASK.png)_
+_[Documentation](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/README.md)_
 ____________________________________________________________________________________________________________________________
 **Project 2:** Real-time Data Streaming with Apache Kafka
 
