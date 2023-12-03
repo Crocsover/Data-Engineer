@@ -1,4 +1,4 @@
-#Sales Data Preprocessing Documentation
+# Sales Data Preprocessing Documentation
 **Overview**
 This documentation provides an overview of the Sales Data Preprocessing project, focusing on the cleaning and enhancement of a sample sales dataset. The primary goal is to prepare the data for comprehensive analysis, ensuring its quality and readiness for data-driven decision-making in the domain of sales.
 
