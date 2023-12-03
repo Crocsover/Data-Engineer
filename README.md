@@ -4,16 +4,19 @@ Welcome to my Data Engineering Projects repository! This collection showcases va
 Feel free to explore the projects listed below. Each project comes with a detailed description, documentation, and relevant code.
 
 Table of Contents
+
 Project 1: ETL Pipeline for Sales Data
 
 Description: This project involves building an ETL pipeline to process and analyze sales data from multiple sources.
-Code
+[Code]
 Documentation
+
 Project 2: Real-time Data Streaming with Apache Kafka
 
 Description: Implementing a real-time data streaming solution using Apache Kafka for efficient and scalable data processing.
 Code
 Documentation
+
 Project 3: Data Warehouse Design and Implementation
 
 Description: Designing and implementing a data warehouse to support complex analytical queries and reporting.
