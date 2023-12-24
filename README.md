@@ -4,8 +4,17 @@ Welcome to my Data Engineering Projects repository! This collection showcases va
 Feel free to explore the projects listed below. Each project comes with a detailed description, documentation, and relevant code.
 ___________________________________________________________________________________________________________________________
 **Table of Contents**
+_____________________________________________________________________________________________________________________________
+**Project 1:** ETL PIPELINE
 
-**Project 1:** Data Preprocessing
+**Description:** This project is dedicated to enhancing a sample sales dataset through robust preprocessing techniques. The focus is on cleaning, transforming, and enriching the data to ensure its optimal structure. The ultimate objective is to prepare the dataset for in-depth analysis, laying the groundwork for effective insights and informed decision-making in the sales domain.
+
+_[Code](https://github.com/Crocsover/Data-Engineer/blob/main/etl%20pipeline/etl%20pipeline.ipynb)_
+
+
+_[Documentation]()_
+_____________________________________________________________________________________________________________________________
+**Project 2:** Data Preprocessing
 
 **Description:** This project focuses on preprocessing a sample sales dataset, implementing techniques to clean, transform, and enrich the data. The objective is to ensure the dataset is well-structured and ready for in-depth analysis, laying the groundwork for effective insights and decision-making in the sales domain.
 
@@ -13,7 +22,7 @@ _[Code](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSIN
 
 _[Documentation](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20PREPROCESSING/PREPROCESS_PROJECT_ACTIVITY/README.md)_
 ____________________________________________________________________________________________________________________________
-**Project 2:** Data Modeling
+**Project 3:** Data Modeling
 
 **Description:** This project is dedicated to crafting a customized data model for Ate Rose Grocery Store, optimizing its structure to tackle operational challenges efficiently. Additionally, it emphasizes SQL query refinement, enhancing the store's ability to seamlessly retrieve and manipulate data for improved operational management.
 
@@ -21,12 +30,13 @@ _[Code](https://github.com/Crocsover/Data-Engineer/tree/main/DATA%20MODELING)_
 
 
 _[Documentation](https://github.com/Crocsover/Data-Engineer/blob/main/DATA%20MODELING/datamodeling.pdf)_
+
 _____________________________________________________________________________________________________________________________
-Project 3: WEB SCRAPING
+**Project 4:** WEB SCRAPING
 
-Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Description:** This Project extracts and consolidates hotel information from specified URLs. It uses web scraping tools like BeautifulSoup, processes data, and updates a CSV file. The run_all_and_display function orchestrates the process, appending new URLs, extracting data, and saving the updated DataFrame.
 
-_[Code]()_
+_[Code](https://github.com/Crocsover/Data-Engineer/blob/main/webscraping/hotel_data_webscraped.ipynb)_
 
 
 _[Documentation]()_
