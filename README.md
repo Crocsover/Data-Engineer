@@ -9,10 +9,10 @@ ________________________________________________________________________________
 
 **Description:** This project is dedicated to enhancing a sample sales dataset through robust preprocessing techniques. The focus is on cleaning, transforming, and enriching the data to ensure its optimal structure. The ultimate objective is to prepare the dataset for in-depth analysis, laying the groundwork for effective insights and informed decision-making in the sales domain.
 
-_[Code](https://github.com/Crocsover/Data-Engineer/blob/main/etl%20pipeline/etl%20pipeline.ipynb)_
+_[Code](https://github.com/Crocsover/Data-Engineer/blob/main/etl%20pipeline/ETL_SALES.ipynb)_
 
 
-_[Documentation]()_
+_[Documentation](https://github.com/Crocsover/Data-Engineer/tree/main/etl%20pipeline)_
 _____________________________________________________________________________________________________________________________
 **Project 2:** Data Preprocessing
 
