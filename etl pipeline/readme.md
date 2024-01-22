@@ -2,7 +2,7 @@
 
 This personal project is about creating ETL PIPELINE from different sources csv,excel,database(postgres) and transform data and load it into a single database.
 
-data set from link : [DATA_SOURCE]([https://github.com](https://github.com/imjbmkz/JDLS000-Developing-ETL-pipelines-using-SQL-Server-Integration-Services-SSIS/tree/main/data_sources)
+data set from link : [DATA_SOURCE](https://github.com/imjbmkz/JDLS000-Developing-ETL-pipelines-using-SQL-Server-Integration-Services-SSIS/tree/main/data_sources)
 
 I separate csv files into different file sources to demonstrate extracting from different file sources. 
 
