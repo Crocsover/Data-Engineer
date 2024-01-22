@@ -115,4 +115,6 @@ You can use these functions to load transformed sales data into a PostgreSQL dat
 
 # THIS IS THE CLEANED DATA STORED INTO annual_sales_2019 table
 <img width="614" alt="loaded_data" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/39a8818c-42f5-4225-ae8f-1da8f11c18dc">
+![image](https://github.com/Crocsover/Data-Engineer/assets/139344602/2b2e59e4-d160-4f0e-8d9a-75366926e718)
+
 
