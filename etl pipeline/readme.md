@@ -9,12 +9,15 @@ I separate csv files into different file sources to demonstrate extracting from 
 please see below:
 
 <img width="617" alt="raw_sales_excel" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/9de91798-5181-419b-a094-362ad195dd04">
+
 - january to april sales as excel (Sales_January_April_2019)
 
 <img width="613" alt="raw_sales_csv" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/3a4b46d2-7951-4bea-8828-bac0d2a5121c">
+
 - may to august sales as csv(sales_csv folder)
   
 <img width="625" alt="raw_sales_database" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/b13800ef-f415-4966-b1be-9da8cb9507e9">
+
 - september to december as database (sales_db)
 
 ## EXTRACT:
