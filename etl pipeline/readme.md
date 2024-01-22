@@ -1,3 +1,5 @@
+# ETL PIPELINE FOR SALES
+
 This personal project is about creating ETL PIPELINE from different sources csv,excel,database(postgres) and transform data and load it into a single database.
 
 data set from link :
@@ -6,11 +8,16 @@ I separate csv files into different file sources to demonstrate extracting from 
 
 please see below:
 
+<img width="617" alt="raw_sales_excel" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/9de91798-5181-419b-a094-362ad195dd04">
 - january to april sales as excel (Sales_January_April_2019)
+
+<img width="613" alt="raw_sales_csv" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/3a4b46d2-7951-4bea-8828-bac0d2a5121c">
 - may to august sales as csv(sales_csv folder)
+  
+<img width="625" alt="raw_sales_database" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/b13800ef-f415-4966-b1be-9da8cb9507e9">
 - september to december as database (sales_db)
 
-## extract:
+## EXTRACT:
 The code defines a series of functions to extract sales data from different sources (Excel file, CSV files, and a PostgreSQL database) and consolidate them into a single Pandas DataFrame. Here's an overview of each function:
 ### consolidated_sales_excel Function:
 - Reads sales data from an Excel file specified by the path 'filepath.xlsx'.
@@ -38,7 +45,7 @@ Make sure the column names used for renaming in the consolidated_data function m
 
 This code provides a flexible way to consolidate sales data from different sources into a unified format using Pandas DataFrames.
 
-## transform
+## TRANFORM
 The transform_sales function takes a Pandas DataFrame (staging_table) as input and performs various transformations on the data. The docstring provides documentation for the function:
 - Parameters Section: Describes that the function expects a parameter named staging_table, which should be of type pd.DataFrame.
 -  Returns Section: Indicates that the function returns a Pandas DataFrame containing the transformed and cleaned sales data.
@@ -58,7 +65,7 @@ The transform_sales function takes a Pandas DataFrame (staging_table) as input a
 - The function returns the transformed DataFrame with cleaned and processed sales data.
 
 
-# Load:
+# LOAD:
 
 The provided code defines two functions related to loading data into a PostgreSQL database:
 ## get_engine Function:
@@ -79,8 +86,11 @@ If there are any issues during the data loading process, the except block captur
 
 You can use these functions to load transformed sales data into a PostgreSQL database by calling load_to_db(transformed_table, table_name), where transformed_table is your DataFrame and table_name is the desired PostgreSQL table name.
 
-## EXECUTION CODE:
+## CREATED A DATABASE WITH SAME COLUMN AS STORAGE:
+<img width="424" alt="create_database" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/6347bb75-7c7f-4e46-b8b1-394ca4fd0b1a">
 
+
+## EXECUTION CODE:
 
 ## consolidated_data Function:
 - Creates a staging table by consolidating sales data from Excel, CSV files, and a PostgreSQL database.
@@ -99,4 +109,7 @@ You can use these functions to load transformed sales data into a PostgreSQL dat
 - Calls transform_sales with the staging table to get the transformed table.
 - Calls load_to_db with the transformed table and the desired table name ('annual_sales_2019').
 
+
+# THIS IS THE CLEANED DATA STORED INTO annual_sales_2019 table
+<img width="614" alt="loaded_data" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/39a8818c-42f5-4225-ae8f-1da8f11c18dc">
 
