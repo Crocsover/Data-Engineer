@@ -5,7 +5,7 @@ Feel free to explore the projects listed below. Each project comes with a detail
 ___________________________________________________________________________________________________________________________
 **Table of Contents**
 _____________________________________________________________________________________________________________________________
-**Project 1:** ETL PIPELINE
+**Project 1:** ETL PIPELINES
 
 **Description:** This project is dedicated to enhancing a sample sales dataset through robust preprocessing techniques. The focus is on cleaning, transforming, and enriching the data to ensure its optimal structure. The ultimate objective is to prepare the dataset for in-depth analysis, laying the groundwork for effective insights and informed decision-making in the sales domain.
 
@@ -40,15 +40,7 @@ _[Code](https://github.com/Crocsover/Data-Engineer/blob/main/webscraping/hotel_d
 
 
 _[Documentation]()_
-______________________________________________________________________________________________________________________________
-**Capstone Project:** End-to-End Data Engineering Solution
 
-Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-_[Code]()_
-
-
-_[Documentation]()_
 
 ______________________________________________________________________________________________________________________________
 **How to Use**
